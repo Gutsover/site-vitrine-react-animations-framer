@@ -17,6 +17,6 @@ You will also see any lint errors in the console.
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Dependancies : node-sass, react-copy-to-clipboard, react-router-dom
+Dependencies : node-sass, react-copy-to-clipboard, react-router-dom
 
 
